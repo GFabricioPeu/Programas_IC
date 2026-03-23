@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: optlib
+Version: 0.1.0
+Summary: Biblioteca de algoritmos de otimização não linear (baseada em Ribeiro & Karas, 2012)
+Author: Seu Nome
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,16 @@
+setup.py
+optlib/__init__.py
+optlib.egg-info/PKG-INFO
+optlib.egg-info/SOURCES.txt
+optlib.egg-info/dependency_links.txt
+optlib.egg-info/requires.txt
+optlib.egg-info/top_level.txt
+optlib/linesearch/__init__.py
+optlib/linesearch/armijo.py
+optlib/linesearch/aurea.py
+optlib/unconstrained/__init__.py
+optlib/unconstrained/conjugate.py
+optlib/unconstrained/gradient.py
+optlib/unconstrained/newton.py
+optlib/utils/__init__.py
+optlib/utils/problems.py
