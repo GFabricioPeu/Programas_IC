@@ -1,6 +1,6 @@
 # 📐 Programas_IC — Biblioteca de Otimização Não Linear
 
-Repositório de estudo e implementação de algoritmos de otimização não linear, desenvolvido durante Iniciação Científica. Os algoritmos são baseados no livro **"Um Curso de Otimização"** (Ribeiro & Karas, 2012).
+Repositório de estudo e implementação de algoritmos de otimização não linear, desenvolvido durante Iniciação Científica. Os algoritmos são baseados no livro **"Otimização Contínua"** (Ribeiro & Karas, 2012).
 
 ---
 
@@ -112,7 +112,7 @@ Ambas aceitam `verbose=True` para imprimir o progresso iteração a iteração.
 
 ## 📖 Referências
 
-- RIBEIRO, A. A.; KARAS, E. W. **Um Curso de Otimização**. 2012.
+- RIBEIRO, A. A.; KARAS, E. W. **Otimização Contínua**. 2012.
 - ISOTON, C. **Condições de Otimalidade para Problemas Escalar e Vetorial**. UFPR, 2013.
 - GUILLEN, F. **Tchebychev Scalarization Along Rays for Bi-Objective Pareto Fronts**. 2024.
 
