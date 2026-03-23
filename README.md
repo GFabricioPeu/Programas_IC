@@ -1,4 +1,4 @@
-# 📐 Programas_IC — Biblioteca de Otimização Não Linear
+# 📐 Biblioteca de Otimização Não Linear
 
 Repositório de estudo e implementação de algoritmos de otimização não linear, desenvolvido durante Iniciação Científica. Os algoritmos são baseados no livro **"Otimização Contínua"** (Ribeiro & Karas, 2012).
 
